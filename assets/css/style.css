@@ -1,0 +1,60 @@
+/* استایل فرم UTM */
+.form-group label {
+    font-weight: bold;
+}
+
+.form-group input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-success:hover {
+    background-color: #1e7e34;
+    text-align: center;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* استایل دکمه کپی */
+#copyButton {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#copyButton:hover {
+    background-color: #1e7e34;
+}
